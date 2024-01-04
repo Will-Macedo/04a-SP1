@@ -1,0 +1,17 @@
+footer{
+    background: blue;
+    color: white;
+    
+    height: 100px;
+    padding-top: 30px;
+}
+
+img{
+  height:30px;
+   width:80px;
+}
+
+span{
+    padding: 10px;
+  }
+  
