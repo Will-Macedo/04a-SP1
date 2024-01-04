@@ -17,4 +17,4 @@ A partir deste estudo, você deverá implementar uma loja virtual (e-commerce) p
 
 Com os componentes do Angular Material ou Bootstrap, utilizando HTML e CSS nesses componentes, você deverá criar menu, conteúdo, rodapé, formulário com os campos de usuário e senha e demais elementos da página inicial e tela de login do site.
 
-Assista ao vídeo a seguir e conheça a melhor forma de desenvolver esta atividade.  
+
